@@ -4,21 +4,18 @@ A simple command-line To-Do List application built in Python. This program allow
 
 <h2>Features</h2>
 
-Display all tasks in your To-Do List.
-Add new tasks dynamically.
-Remove tasks by selecting their number.
-Menu-driven interface for easy interaction.
-Handles invalid task numbers gracefully.
+<ul>
+    <li>Display all tasks in your To-Do List.</li>
+    <li>Add new tasks dynamically.</li>
+    <li>Remove tasks by selecting their number.</li>
+    <li>Menu-driven interface for easy interaction.</li>
+    <li>Handles invalid task numbers gracefully.</li>
+</ul>
 
-<h2>How It Works</h2>
-
-The program starts with a main menu offering four options:
-Display All Tasks
-Add Task
-Remove Task
-Exit
-
-Display Tasks: Shows all tasks or a message if the list is empty.
-Add Task: Prompts the user to enter a task name and adds it to the list.
-Remove Task: Lists all tasks with numbers and allows the user to remove a task by entering its number.
-Exit: Stops the program with a thank-you message.
+<h2>The program starts with a main menu offering four options:</h2>
+<ul>
+    <li>Display All Tasks</li>
+    <li>Add Task</li>
+    <li>Remove Task</li>
+    <li>Exit</li>
+</ul>
